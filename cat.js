@@ -6,3 +6,4 @@ $('.thumbnail').on('click', function(event) {
 });
                     
                     
+           
